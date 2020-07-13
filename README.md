@@ -1,2 +1,13 @@
-# SQL-Zoo-Practice
-This project will test the student’s domain of SQL queries by requesting them to retrieve and organize different pieces of data from a table.
+# SQL Tutorials From SQL Zoo
+
+> Learning SQL for the Odin Project!
+
+## View Tutorials
+
+[SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+
+## Author
+
+👤 **Cecilia Benitez**
+
+- Github: https://github.com/Ceci007
